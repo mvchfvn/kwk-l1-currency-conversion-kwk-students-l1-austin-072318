@@ -31,5 +31,5 @@ def aud_to_usd(aud)
   return aud*0.74
 end
 
-puts usd_to_eur(4)
-puts eur_to_usd(3.44)
+puts "How "
+

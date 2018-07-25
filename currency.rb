@@ -32,3 +32,4 @@ def aud_to_usd(aud)
 end
 
 puts usd_to_eur(4)
+puts eur_to_usd(3.44)

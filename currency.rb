@@ -16,7 +16,7 @@ def usd_to_gbp(dollars)
 end
 
 def usd_to_aud(dollars)
-  
+  return dollars*1.35
 end
 
 def jpy_to_usd(jp)

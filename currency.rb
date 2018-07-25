@@ -31,5 +31,7 @@ def aud_to_usd(aud)
   return aud*0.74
 end
 
-puts "How "
+puts "How much money do you want to convert?"
+amount = gets.chomp().to_i
 
+puts 

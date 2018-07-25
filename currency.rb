@@ -12,7 +12,7 @@ def usd_to_jpy(dollars)
 end
 
 def usd_to_gbp(dollars)
-  return
+  return 
 end
 
 def usd_to_aud(dollars)
